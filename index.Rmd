@@ -1,0 +1,12 @@
+---
+site: blogdown:::blogdown_site
+title: "Project 7"
+---
+
+```{r, libs}
+library(blogdown)
+library(hugodown)
+```
+
+
+
