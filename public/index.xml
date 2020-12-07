@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Joseph A. Faski</title>
+    <link>https://josephfaski.com/</link>
+    <description>Recent content in About on Joseph A. Faski</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://josephfaski.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://josephfaski.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://josephfaski.com/about/</guid>
+      <description>About Me I earned a bachelor of science degree in neuroscience from Michigan State University. I am currently in pursuit of a master&amp;rsquo;s of science degree in biostatistics from Grand Valley State University.
+Research Interest I have always had an interest in human biology. After I earned my bachelor&amp;rsquo;s degree, I moved to Grand Rapids and began working as a research technician at the Van Andel Institute researching genetics in cardiovascular tissue repair.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://josephfaski.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://josephfaski.com/contact/</guid>
+      <description> Email: faskij@gvsu.edu Phone: (616)634-5167   Mailing Address  1067 Walker Ave NW
+Grand Rapids, MI 49504
+United States of America
+  Social  Facebook Twitter Google+  </description>
+    </item>
+    
+  </channel>
+</rss>
