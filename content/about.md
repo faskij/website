@@ -10,7 +10,7 @@ I earned a bachelor of science degree in neuroscience from Michigan State Univer
 
 ## Research Interest
 
-I have always had an interest in human biology. After I earned my bachelor's degree, I moved to Grand Rapids and began working as a research technician at the Van Andel Institute researching genetics in cardiovascular tissue repair. I remain an inter for my master's program working for the same cardiovascular laboratory studying the genetics and proteomics of cardiomyocyte renewal. 
+I have always had an interest in human biology. After I earned my bachelor's degree, I moved to Grand Rapids and began working as a research technician at the Van Andel Institute researching genetics in cardiovascular tissue repair. I remain an intern for my master's program working for the same cardiovascular laboratory studying the genetics and proteomics of cardiomyocyte renewal. 
 
 
 ## Future Goals
