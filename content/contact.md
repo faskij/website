@@ -19,6 +19,4 @@ title: Contact
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Linkedin](www.linkedin.com/in/joseph-faski-b6ab4a182)
