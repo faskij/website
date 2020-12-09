@@ -17,6 +17,3 @@ title: Contact
 
 ---
 
-## Social
-
-1. [Linkedin](www.linkedin.com/in/joseph-faski-b6ab4a182)
